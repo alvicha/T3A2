@@ -1,2 +1,7 @@
 Villegas Chaparro
+<<<<<<< HEAD
 usuari1
+=======
+Hola Villegas
+usuari2
+>>>>>>> b35b8cd389a46b5f5bf2c0de4bd5e5356458d31d
